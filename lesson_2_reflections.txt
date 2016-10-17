@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+--> Without initialize a repository I cannot use the git features on that directory.
+That is I cannot track the history of commits al all. So, by using 'git init' I should
+initialize a git repository for the directory.
+
+
