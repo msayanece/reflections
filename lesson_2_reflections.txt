@@ -11,3 +11,12 @@ What value do you think it offers?
 --> Staging area is a temporary area where we add files that are going to commit.
 It is an important concept because we can make a tracking history of each file
 if we want, that makes it customizable and more convenient to use.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use 'git diff' command to check the difference between unstaged and staged area.
+And also I can use 'git diff --staged' command to check the difference between master
+and staged area. by using the last command I can make sure that I am commiting only 
+one logical change at once.
+
