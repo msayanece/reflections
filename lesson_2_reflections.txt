@@ -5,3 +5,9 @@ That is I cannot track the history of commits al all. So, by using 'git init' I 
 initialize a git repository for the directory.
 
 
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+--> Staging area is a temporary area where we add files that are going to commit.
+It is an important concept because we can make a tracking history of each file
+if we want, that makes it customizable and more convenient to use.
