@@ -34,3 +34,6 @@ hide my experimental changes to the user... after completing with my experiments
 I can rejoin the experiment-branch to the master-branch (original version).
 
 
+How do the diagrams help you visualize the branch structure?
+
+--> It helps a lot. Actually, now I can understand the  detached warning message. 
