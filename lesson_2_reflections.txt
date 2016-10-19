@@ -15,8 +15,22 @@ if we want, that makes it customizable and more convenient to use.
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-I can use 'git diff' command to check the difference between unstaged and staged area.
+--> I can use 'git diff' command to check the difference between unstaged and staged area.
 And also I can use 'git diff --staged' command to check the difference between master
 and staged area. by using the last command I can make sure that I am commiting only 
 one logical change at once.
+
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+--> If I want to make changes to the repository but I am not sure if it will work or not,
+that is for any experimental changes to a file; or if I need to create different kind of 
+application for different king of user then I need to create a branch with a meaningful
+name.
+
+By using branches I can manage my history. I can checkout my original version or I can 
+hide my experimental changes to the user... after completing with my experiments successfully
+I can rejoin the experiment-branch to the master-branch (original version).
+
 
